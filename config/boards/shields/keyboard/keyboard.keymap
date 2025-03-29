@@ -5,9 +5,6 @@
 #include <dt-bindings/zmk/outputs.h>
 #include <behaviors/mouse_keys.dtsi>
 #include <dt-bindings/zmk/ext_power.h>
-#include "macros.dtsi"
-#include "behaviors.dtsi"
-#include "combos.dtsi"
 
 / {
     /* input config for mouse move mode */
