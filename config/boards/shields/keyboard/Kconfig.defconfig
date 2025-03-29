@@ -1,4 +1,4 @@
 if SHIELD_KEYBOARD
 config ZMK_KEYBOARD_NAME
-    default "filco minila R"
+    default "AdeptBLE"
 endif
