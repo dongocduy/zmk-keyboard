@@ -27,10 +27,10 @@
             , <&gpio0 29 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             ;
         col-gpios
-            = <&gpio0 2 GPIO_ACTIVE_HIGH>
-            , <&gpio1 15 GPIO_ACTIVE_HIGH>
+            = <&gpio1 11 GPIO_ACTIVE_HIGH>
             , <&gpio1 13 GPIO_ACTIVE_HIGH>
-            , <&gpio1 11 GPIO_ACTIVE_HIGH>
+            , <&gpio1 15 GPIO_ACTIVE_HIGH>
+            , <&gpio0 2 GPIO_ACTIVE_HIGH>
             ;
     };
 };
