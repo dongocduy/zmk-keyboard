@@ -24,7 +24,7 @@
         two_layer {
             bindings = <
                 &sys_reset &trans &trans &trans
-                &trans               &trans
+                &ext_power EP_TOG               &trans
             >;
         };
         three_layer {
