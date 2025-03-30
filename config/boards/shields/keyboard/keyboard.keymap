@@ -17,7 +17,7 @@
         };
         one_layer {
             bindings = <
-                &&ext_power EP_ON &kp N5 &trans &trans
+                &ext_power EP_ON &kp N5 &trans &trans
                 &trans               &trans
             >;
         };
