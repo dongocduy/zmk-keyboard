@@ -6,12 +6,12 @@
         zmk,matrix_transform = &default_transform;
     };
 
-	ext-power {
-		compatible = "zmk,ext-power-generic";
-		label = "EXT_POWER";
-		init-delay-ms = <100>;
-		//control-gpios = <&gpio0 12 GPIO_ACTIVE_HIGH>;
-	};
+//	ext-power {
+//		compatible = "zmk,ext-power-generic";
+//		label = "EXT_POWER";
+//		init-delay-ms = <100>;
+//		//control-gpios = <&gpio0 12 GPIO_ACTIVE_HIGH>;
+//	};
 
     default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
