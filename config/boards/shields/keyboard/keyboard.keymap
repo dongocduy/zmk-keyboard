@@ -11,19 +11,19 @@
         compatible = "zmk,keymap";
         zero_layer {
             bindings = <
-                &kp N1 &kp N2 &kp N3 &mo 1
-                &mkp LCLK            &mkp RCLK
+                &mkp RCLK &mkp MCLK &mkp MB4  &mkp MB5
+                &mkp LCLK            &mo 1
             >;
         };
         one_layer {
             bindings = <
-                &ext_power EP_ON &ext_power EP_TOG &bootloader  &trans
-                &trans               &trans
+                &msc SCRL_UP  &msc SCRL_LEFT  &msc SCRL_RIGHT  &mo 2
+                &msc SCRL_DOWN                                 &trans
             >;
         };
         two_layer {
             bindings = <
-                &trans &trans &trans &trans
+                &sys_reset &trans &trans &trans
                 &trans               &trans
             >;
         };
