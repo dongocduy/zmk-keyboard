@@ -11,13 +11,13 @@
         compatible = "zmk,keymap";
         zero_layer {
             bindings = <
-                &kp N1 &kp N2 &kp N3 &kp N4
+                &kp N1 &kp N2 &kp N3 &mo 1
                 &mkp LCLK            &mkp RCLK
             >;
         };
         one_layer {
             bindings = <
-                &trans &trans &trans &trans
+                &&ext_power EP_ON &kp N5 &trans &trans
                 &trans               &trans
             >;
         };
