@@ -23,7 +23,7 @@
         };
         two_layer {
             bindings = <
-                &sys_reset &trans &trans &trans
+                &sys_reset &studio_unlock &trans &trans
                 &ext_power EP_TOG               &trans
             >;
         };
