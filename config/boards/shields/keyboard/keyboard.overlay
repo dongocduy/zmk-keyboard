@@ -1,6 +1,6 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 #include "keyboard.dtsi"
-#include "charybdis_3610.dtsi"
+#include "pmw3610.dtsi"
 / {
     chosen {
         zmk,kscan = &kscan0;
