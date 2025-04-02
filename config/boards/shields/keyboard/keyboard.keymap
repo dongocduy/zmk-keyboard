@@ -7,11 +7,6 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 / {
-    trackball_listener {
-        compatible = "zmk,input-listener";
-        device = <&trackball>;
-    };
-
     keymap {
         compatible = "zmk,keymap";
         zero_layer {
@@ -28,14 +23,14 @@
         };
         two_layer {
             bindings = <
-                &sys_reset &trans &mo 3  &trans
-                &bt BT_CLR                       &trans
+                &sys_reset &ext_power EP_TOG &mo 3  &trans
+                &bt BT_CLR                          &trans
             >;
         };
         three_layer {
             bindings = <
                 &bt BT_SEL 0 &bt BT_SEL 1 &trans &trans
-                &ext_power EP_TOG                       &trans
+                &bt BT_CLR                       &trans
             >;
         };
         four_layer {
