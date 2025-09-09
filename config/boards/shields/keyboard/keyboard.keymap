@@ -28,8 +28,8 @@ debounce-release-ms = <30>;
                 &kp ESC   &kp N1 &kp N2 &kp N3   &kp N4   &kp N5
                 &kp TAB   &kp Q  &kp W  &kp E    &kp R    &kp T
                 &kp LCTRL &kp A  &kp S  &kp D    &kp F    &kp G
-                &kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp B  &kp LBKT
-                                        &kp LALT &kp LGUI &mo 1  &kp SPACE
+                &kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp B
+                                        &kp LALT &kp LGUI &mo 1  &kp SPACE &kp LBKT
             >;
         };
         one_layer {
@@ -37,8 +37,8 @@ debounce-release-ms = <30>;
                 &bt BT_CLR &bt BT_SEL 0     &bt BT_SEL 1      &bt BT_SEL 2      &bt BT_SEL 3 &bt BT_SEL 4
                 &kp F1     &kp F2           &kp F3            &kp F4            &kp F5       &kp F6
                 &kp GRAVE  &kp EXCL         &kp AT            &kp HASH          &kp DOLLAR   &kp PRCNT
-                &trans     &trans           &trans            &trans            &trans       &trans    &trans
-                                                                &trans            &trans       &trans    &trans
+                &trans     &trans           &trans            &trans            &trans       &trans
+                                                                &trans            &trans       &trans    &trans &trans
             >;
         };
         two_layer {
@@ -46,8 +46,8 @@ debounce-release-ms = <30>;
                 &bt BT_CLR &bt BT_SEL 0     &bt BT_SEL 1      &bt BT_SEL 2      &bt BT_SEL 3 &bt BT_SEL 4
                 &kp F1     &kp F2           &kp F3            &kp F4            &kp F5       &kp F6
                 &kp GRAVE  &kp EXCL         &kp AT            &kp HASH          &kp DOLLAR   &kp PRCNT
-                &trans     &trans           &trans            &trans            &trans       &trans    &trans
-                                                                &trans            &trans       &trans    &trans
+                &trans     &trans           &trans            &trans            &trans       &trans
+                                                                &trans            &trans       &trans    &trans &trans
             >;
         };
         three_layer {
@@ -55,8 +55,8 @@ debounce-release-ms = <30>;
                 &bt BT_CLR &bt BT_SEL 0     &bt BT_SEL 1      &bt BT_SEL 2      &bt BT_SEL 3 &bt BT_SEL 4
                 &kp F1     &kp F2           &kp F3            &kp F4            &kp F5       &kp F6
                 &kp GRAVE  &kp EXCL         &kp AT            &kp HASH          &kp DOLLAR   &kp PRCNT
-                &trans     &trans           &trans            &trans            &trans       &trans    &trans
-                                                                &trans            &trans       &trans    &trans
+                &trans     &trans           &trans            &trans            &trans       &trans
+                                                                &trans            &trans       &trans    &trans &trans
             >;
         };
     };
