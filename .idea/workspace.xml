@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d763864d-3dee-4feb-8aeb-93fa9f80b0e0" name="Changes" comment="correct index" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="2guI62Sj6DPFjn4nMnxs5WAxlFH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workSpace\keyboard\zmk\keyboard\config\boards\shields\keyboard" />
+      <recent name="D:\workSpace\keyboard\zmk\ikbc_c87_zmk_v2\config\boards\shields\ikbc_c87_zmk_v2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workSpace\keyboard\zmk\ikbc_c87_zmk_v2\config\boards\shields\ikbc_c87_zmk_v2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d763864d-3dee-4feb-8aeb-93fa9f80b0e0" name="Changes" comment="" />
+      <created>1716540860154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716540860154</updated>
+      <workItem from="1716540861977" duration="528000" />
+      <workItem from="1716541418745" duration="4049000" />
+      <workItem from="1733582731772" duration="606000" />
+      <workItem from="1733593023118" duration="766000" />
+      <workItem from="1733624905831" duration="526000" />
+      <workItem from="1733625444781" duration="3582000" />
+      <workItem from="1733736860672" duration="4591000" />
+      <workItem from="1734309860048" duration="9144000" />
+      <workItem from="1734404990459" duration="3970000" />
+      <workItem from="1736703817246" duration="1493000" />
+      <workItem from="1740749342372" duration="5436000" />
+      <workItem from="1741927080144" duration="5523000" />
+      <workItem from="1743257876424" duration="5306000" />
+      <workItem from="1743302867084" duration="19285000" />
+      <workItem from="1743566774728" duration="6895000" />
+      <workItem from="1757386032856" duration="6050000" />
+      <workItem from="1758872581178" duration="6563000" />
+      <workItem from="1759678159459" duration="645000" />
+      <workItem from="1774714303252" duration="17000" />
+    </task>
+    <task id="LOCAL-00036" summary="correct overlay">
+      <created>1743261063854</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1743261063854</updated>
+    </task>
+    <task id="LOCAL-00037" summary="correct keymap">
+      <created>1743261566058</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1743261566058</updated>
+    </task>
+    <task id="LOCAL-00038" summary="correct keymap">
+      <created>1743262321144</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1743262321144</updated>
+    </task>
+    <task id="LOCAL-00039" summary="correct overlay">
+      <created>1743262666418</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1743262666418</updated>
+    </task>
+    <task id="LOCAL-00040" summary="correct keymap">
+      <created>1743262902137</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1743262902137</updated>
+    </task>
+    <task id="LOCAL-00041" summary="correct pin-out">
+      <created>1743306127442</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1743306127442</updated>
+    </task>
+    <task id="LOCAL-00042" summary="correct pin-out">
+      <created>1743307474851</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1743307474851</updated>
+    </task>
+    <task id="LOCAL-00043" summary="correct pin-out">
+      <created>1743307691193</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1743307691193</updated>
+    </task>
+    <task id="LOCAL-00044" summary="correct overlay">
+      <created>1743307931256</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1743307931256</updated>
+    </task>
+    <task id="LOCAL-00045" summary="correct ORIENTATION">
+      <created>1743309986396</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1743309986396</updated>
+    </task>
+    <task id="LOCAL-00046" summary="correct pinout">
+      <created>1743326372369</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1743326372369</updated>
+    </task>
+    <task id="LOCAL-00047" summary="external CONFIG_ZMK_EXT_POWER=y">
+      <created>1743339857514</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1743339857514</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update keymap">
+      <created>1743340515833</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1743340515833</updated>
+    </task>
+    <task id="LOCAL-00049" summary="update keymap">
+      <created>1743340675831</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1743340675831</updated>
+    </task>
+    <task id="LOCAL-00050" summary="update keymap">
+      <created>1743341671500</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1743341671500</updated>
+    </task>
+    <task id="LOCAL-00051" summary="update keymap">
+      <created>1743341692962</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1743341692962</updated>
+    </task>
+    <task id="LOCAL-00052" summary="update power">
+      <created>1743343217860</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1743343217860</updated>
+    </task>
+    <task id="LOCAL-00053" summary="nice_nano_v2">
+      <created>1743343407466</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1743343407466</updated>
+    </task>
+    <task id="LOCAL-00054" summary="nice_nano_v2">
+      <created>1743343501234</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1743343501234</updated>
+    </task>
+    <task id="LOCAL-00055" summary="update power">
+      <created>1743343623371</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1743343623371</updated>
+    </task>
+    <task id="LOCAL-00056" summary="ORIENTATION">
+      <created>1743350697952</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1743350697952</updated>
+    </task>
+    <task id="LOCAL-00057" summary="ORIENTATION_270">
+      <created>1743353141241</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353141241</updated>
+    </task>
+    <task id="LOCAL-00058" summary="enable sleep">
+      <created>1743353221062</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353221062</updated>
+    </task>
+    <task id="LOCAL-00059" summary="update keymap">
+      <created>1743353897332</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1743353897332</updated>
+    </task>
+    <task id="LOCAL-00060" summary="badjeff">
+      <created>1743355151789</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1743355151789</updated>
+    </task>
+    <task id="LOCAL-00061" summary="badjeff">
+      <created>1743355194137</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1743355194137</updated>
+    </task>
+    <task id="LOCAL-00062" summary="delay power">
+      <created>1743355553456</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1743355553456</updated>
+    </task>
+    <task id="LOCAL-00063" summary="CONFIG_PMW3610_INVERT_X">
+      <created>1743355602391</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1743355602391</updated>
+    </task>
+    <task id="LOCAL-00064" summary="add keymap power">
+      <created>1743355934279</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1743355934279</updated>
+    </task>
+    <task id="LOCAL-00065" summary="INVERT x-y">
+      <created>1743356017132</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1743356017132</updated>
+    </task>
+    <task id="LOCAL-00066" summary="INVERT x-y">
+      <created>1743356107773</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1743356107773</updated>
+    </task>
+    <task id="LOCAL-00067" summary="add zmk-studio">
+      <created>1743356349214</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1743356349214</updated>
+    </task>
+    <task id="LOCAL-00068" summary="add zmk-studio">
+      <created>1743356354011</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1743356354011</updated>
+    </task>
+    <task id="LOCAL-00069" summary="SWAP_XY">
+      <created>1743357212370</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1743357212370</updated>
+    </task>
+    <task id="LOCAL-00070" summary="try new config">
+      <created>1743568841749</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1743568841750</updated>
+    </task>
+    <task id="LOCAL-00071" summary="correct keymap">
+      <created>1743569315935</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1743569315935</updated>
+    </task>
+    <task id="LOCAL-00072" summary="correct config">
+      <created>1743571664099</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1743571664099</updated>
+    </task>
+    <task id="LOCAL-00073" summary="correct include">
+      <created>1743571814336</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1743571814337</updated>
+    </task>
+    <task id="LOCAL-00074" summary="correct include">
+      <created>1743573672717</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1743573672717</updated>
+    </task>
+    <task id="LOCAL-00075" summary="try config">
+      <created>1743574399487</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1743574399487</updated>
+    </task>
+    <task id="LOCAL-00076" summary="try config">
+      <created>1743575282505</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1743575282505</updated>
+    </task>
+    <task id="LOCAL-00077" summary="init lily58 left">
+      <created>1757388009106</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1757388009106</updated>
+    </task>
+    <task id="LOCAL-00078" summary="correct overlay">
+      <created>1757389649360</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1757389649360</updated>
+    </task>
+    <task id="LOCAL-00079" summary="correct row, col">
+      <created>1757389767706</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1757389767706</updated>
+    </task>
+    <task id="LOCAL-00080" summary="correct row, col">
+      <created>1757390946325</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1757390946325</updated>
+    </task>
+    <task id="LOCAL-00081" summary="correct row, col">
+      <created>1757393723832</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1757393723832</updated>
+    </task>
+    <task id="LOCAL-00082" summary="filco minilar air">
+      <created>1758879635838</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1758879635838</updated>
+    </task>
+    <task id="LOCAL-00083" summary="filco minilar air">
+      <created>1758880134987</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1758880134987</updated>
+    </task>
+    <task id="LOCAL-00084" summary="correct index">
+      <created>1758881674847</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1758881674847</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="AdeptBLE" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="correct pinout" />
+    <MESSAGE value="external CONFIG_ZMK_EXT_POWER=y" />
+    <MESSAGE value="nice_nano_v2" />
+    <MESSAGE value="update power" />
+    <MESSAGE value="ORIENTATION" />
+    <MESSAGE value="ORIENTATION_270" />
+    <MESSAGE value="enable sleep" />
+    <MESSAGE value="update keymap" />
+    <MESSAGE value="badjeff" />
+    <MESSAGE value="delay power" />
+    <MESSAGE value="CONFIG_PMW3610_INVERT_X" />
+    <MESSAGE value="add keymap power" />
+    <MESSAGE value="INVERT x-y" />
+    <MESSAGE value="add zmk-studio" />
+    <MESSAGE value="SWAP_XY" />
+    <MESSAGE value="try new config" />
+    <MESSAGE value="correct keymap" />
+    <MESSAGE value="correct config" />
+    <MESSAGE value="correct include" />
+    <MESSAGE value="try config" />
+    <MESSAGE value="init lily58 left" />
+    <MESSAGE value="correct overlay" />
+    <MESSAGE value="correct row, col" />
+    <MESSAGE value="filco minilar air" />
+    <MESSAGE value="correct index" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct index" />
+  </component>
+</project>
